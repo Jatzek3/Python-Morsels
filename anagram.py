@@ -2,7 +2,7 @@ from collections import Counter
 from collections import defaultdict
 
 
-def is_anagram(word1,word2):
+def is_anagram1(word1,word2):
     c1 = Counter(word1.upper())
     c2 = Counter(word2.upper())
     return c1 == c2
@@ -22,7 +22,7 @@ def is_anagram2(word1, word2):
     return (count1 == count2)
 
 
-def is_anagram(word1, word2):
+def is_anagram3(word1, word2):
     word1 = word1.upper()
     word2 = word2.upper()
     count1 = defaultdict(int)
