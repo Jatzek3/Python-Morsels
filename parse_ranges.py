@@ -8,7 +8,9 @@ def parse_ranges(list):
         start = int(item[0])
         stop = int(item[1]) + 1
         parsed_ranges_values += range(start, stop)
-    return parsed_ranges_values
+    return iter(parsed_ranges_values)
+
+
 
 
 
