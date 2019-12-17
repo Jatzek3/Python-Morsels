@@ -9,4 +9,4 @@ https://www.pythonmorsels.com/
 - answer  to specific assignment
 - automated test
 
-I highly recommend enyone interested buying Python Morsels subscription. 
+I highly recommend anyone interested buying Python Morsels subscription. 
