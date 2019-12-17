@@ -1,1 +1,12 @@
-This is repostiory where i hold my answers to exercises from Python morsels
+# Python Morsels
+In this repository i store exercises description, answers and automated tests for specific weekly assignments from:
+
+https://www.pythonmorsels.com/
+
+
+## Directories contain:
+- assignment desciption
+- answer  to specific assignment
+- automated test
+
+I highly recommend enyone interested buying Python Morsels subscription. 
